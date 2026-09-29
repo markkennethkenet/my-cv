@@ -1,9 +1,9 @@
 # My First GitHub Repository
  
-- **Name:** YOUR COMPLETE NAME
-- **Year Level:** YOUR YEAR LEVEL (e.g., 3rd Year)
-- **Set/Section:** YOUR SET/SECTION
-- **Subject:** YOUR SUBJECT
+- **Name:** Mark Kenneth S. Torres
+- **Year Level:** 3RD Year
+- **Set/Section:** BSIT
+- **Subject:** IT415
 ## About
  
 This repository contains my personal CV web page (`index.html`).
