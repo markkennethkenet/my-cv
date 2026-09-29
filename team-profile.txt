@@ -1,6 +1,3 @@
   Team Name: Not decided
-<<<<<<< HEAD
-  Favorite Language: Dart
-=======
-  Favorite Language: Python
->>>>>>> student-b
+  Favorite Language: Dart and Python
+
