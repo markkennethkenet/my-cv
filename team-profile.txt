@@ -1,2 +1,2 @@
   Team Name: Not decided
-  Favorite Language: Not decided
+  Favorite Language: Python
